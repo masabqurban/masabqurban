@@ -98,11 +98,11 @@ Let's connect, innovate, and make an impact together!
     </td>
     <!-- Back-End & Full-Stack -->
     <td>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="58" height="58" alt="nextjs" />
+     <img src="https://skillicons.dev/icons?i=nextjs" width="58" height="58" alt="nextjs" />
       <br>Next JS
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="48" height="48" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center"  width="96">
