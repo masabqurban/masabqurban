@@ -16,7 +16,7 @@
   <p align="justify">
 Welcome to My GitHub Page!
 
-I'm **Masab Qurban**, a passionate **Software Engineer** with **1+ year of experience** in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
+I'm **Masab Qurban**, a passionate **Software Engineer** with 1+ year of experience in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
 
 Let's connect, innovate, and make an impact together!
   </p>
@@ -49,17 +49,21 @@ Let's connect, innovate, and make an impact together!
     </td>
     <!-- Front-End Frameworks -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS"/>
       <br>React JS
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next JS" />
-      <br>Next JS
+    <td>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="58" height="58" alt="nextjs" />
+      <br>Next-js
     </td>
     <!-- Back-End & Full-Stack -->
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>PHP
     </td>
   </tr>
   <tr>
