@@ -1,31 +1,27 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Masab Qurban! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Masab Qurban! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
-
-<div align="center">
-  <a href="https://www.instagram.com/masabqurban/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/masab-qurban/">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="justify">
+<a href="https://www.instagram.com/masabqurban/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/masab-qurban/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
 <p></p>
+<span style="display: inline-block; width: 50%;">
+  <p align="justify">
+Welcome to My GitHub Page!
 
-<div align="center">
-  <p align="justify" style="max-width: 600px;">
-    Welcome to My GitHub Page!
+I'm **Masab Qurban**, a passionate **Software Engineer** with **1+ year of experience** in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
 
-    I'm **Masab Qurban**, a passionate **Front-End Developer** with **1+ year of experience** in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
-
-    Let's connect, innovate, and make an impact together!
+Let's connect, innovate, and make an impact together!
   </p>
-</div>
-
-<img style="display: block; margin: 0 auto; height: 250px; width: 400px;" alt="Coding Animation" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+</span>
+<img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 ## My Favorite Tools and Technologies ⚙️
 
