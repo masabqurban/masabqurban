@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Masab Qurban! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 
-<div align="justify">
+<div align="center">
   <a href="https://www.instagram.com/masabqurban/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
@@ -15,23 +15,23 @@
 
 <p></p>
 
-<span style="display: inline-block; width: 50%;">
-  <p align="justify">
+<div align="center">
+  <p align="justify" style="max-width: 600px;">
     Welcome to My GitHub Page!
 
     I'm **Masab Qurban**, a passionate **Front-End Developer** with **1+ year of experience** in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
 
     Let's connect, innovate, and make an impact together!
   </p>
-</span>
+</div>
 
-<img style="display: inline-block; height: 250px; width: 400px;" alt="Coding Animation" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<img style="display: block; margin: 0 auto; height: 250px; width: 400px;" alt="Coding Animation" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 ## My Favorite Tools and Technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table align="center">
   <tr>
     <!-- Core Web Technologies -->
     <td align="center" width="96">
@@ -46,6 +46,11 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
+     <!-- Styling & Design -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
     <!-- Front-End Frameworks -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -59,15 +64,6 @@
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
-    </td>
-    <!-- Styling & Design -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
     </td>
   </tr>
   <tr>
@@ -103,10 +99,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
     </td>
   </tr>
 </table>
