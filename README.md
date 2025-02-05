@@ -29,6 +29,49 @@ Let's connect, innovate, and make an impact together!
 
 <table>
   <tr>
+    <!-- Core Web Technologies -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+     <!-- Styling & Design -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <!-- Front-End Frameworks -->
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="ReactJS"/>
+      <br>React JS
+    </td>
+    <!-- Back-End & Full-Stack -->
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=nextjs" width="58" height="58" alt="nextjs" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>PHP
+    </td>
+    <!-- Programming Languages -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
     <!-- Version Control & Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -69,50 +112,6 @@ Let's connect, innovate, and make an impact together!
    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
-    </td>
-  </tr>
- 
-  <tr>
-    <!-- Core Web Technologies -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-     <!-- Styling & Design -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <!-- Front-End Frameworks -->
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="ReactJS"/>
-      <br>React JS
-    </td>
-    <!-- Back-End & Full-Stack -->
-    <td>
-     <img src="https://skillicons.dev/icons?i=nextjs" width="58" height="58" alt="nextjs" />
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-      <br>PHP
-    </td>
-    <!-- Programming Languages -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-      <br>Python
     </td>
   </tr>
 </table>
