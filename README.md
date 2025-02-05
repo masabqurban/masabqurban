@@ -40,7 +40,7 @@ Let's connect, innovate, and make an impact together!
     </td>
     <!-- Databases -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -89,17 +89,17 @@ Let's connect, innovate, and make an impact together!
      <!-- Styling & Design -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <!-- Front-End Frameworks -->
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS"/>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="ReactJS"/>
       <br>React JS
     </td>
     <!-- Back-End & Full-Stack -->
     <td>
      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="58" height="58" alt="nextjs" />
-      <br>Next-js
+      <br>Next JS
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="48" height="48" alt="Laravel" />
@@ -111,7 +111,7 @@ Let's connect, innovate, and make an impact together!
     </td>
     <!-- Programming Languages -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
   </tr>
