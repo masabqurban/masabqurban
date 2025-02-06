@@ -83,7 +83,7 @@ Let's connect, innovate, and make an impact together!
     </td>
     <!-- Databases -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
