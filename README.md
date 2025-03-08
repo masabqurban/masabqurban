@@ -112,7 +112,9 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-    <!-- Additional Tools -->
+  </tr>
+ <tr>
+   <!-- Additional Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
@@ -125,7 +127,7 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-  </tr>
+ </tr>
 </table>
 
 <!---
