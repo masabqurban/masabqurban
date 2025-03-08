@@ -47,6 +47,10 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
     </td>
+   <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -65,7 +69,9 @@ Let's connect, innovate, and make an impact together!
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="ReactJS"/>
       <br>Node JS
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+   <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
@@ -78,8 +84,6 @@ Let's connect, innovate, and make an impact together!
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
     </td>
-  </tr>
-  <tr>
     <!-- Version Control & Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
