@@ -71,6 +71,10 @@ Let's connect, innovate, and make an impact together!
     </td>
   </tr>
   <tr>
+   <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>jQuery
+    </td>
    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
@@ -93,6 +97,10 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
     <!-- Testing & APIs -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -103,6 +111,7 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+ <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
@@ -113,12 +122,7 @@ Let's connect, innovate, and make an impact together!
       <br>VS Code
     </td>
   </tr>
- <tr>
    <!-- Additional Tools -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
@@ -126,6 +130,14 @@ Let's connect, innovate, and make an impact together!
    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
+    </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>materialui
     </td>
  </tr>
 </table>
