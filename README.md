@@ -16,7 +16,7 @@
   <p align="justify">
 Welcome to My GitHub Page!
 
-I'm **Masab Qurban**, a passionate **Software Engineer** with 1+ year of experience in building modern, high-performance web applications. My expertise lies in **React JS, Next JS, Laravel, Tailwind CSS, and JavaScript**, and I specialize in creating seamless user experiences and visually appealing designs. I thrive in fast-paced, collaborative environments and am always eager to learn, adapt, and push boundaries.
+I'm Masab Qurban, a Full-Stack Developer with 1+ year of experience crafting modern web apps. I wield MERN, Next JS, Laravel, TypeScript, JavaScript and Python to build scalable solutions and AI-powered tools. Passionate about pixel-perfect UIs, seamless UX, and clean architecture, I focus on web development while dabbling in cross-platform apps. I thrive on solving complex problems with cutting-edge tech and collaborative innovation.
 
 Let's connect, innovate, and make an impact together!
   </p>
