@@ -121,7 +121,6 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-  </tr>
    <!-- Additional Tools -->
    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
