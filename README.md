@@ -43,11 +43,11 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Tailwind CSS" />
       <br>Bootstrap
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
@@ -65,17 +65,17 @@ Let's connect, innovate, and make an impact together!
      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>Next JS
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="ReactJS"/>
       <br>Node JS
     </td>
   </tr>
   <tr>
-   <td align="center"  width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="php" />
       <br>jQuery
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
@@ -97,7 +97,7 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -106,7 +106,7 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-   <!-- Version Control & Tools -->
+    <!-- Version Control & Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -121,16 +121,16 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-   <!-- Additional Tools -->
-   <td align="center" width="96">
+    <!-- Additional Tools -->
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
-   </td>
-   <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
