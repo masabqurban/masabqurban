@@ -61,6 +61,10 @@ Let's connect, innovate, and make an impact together!
      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>Next JS
     </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/node-icon.svg" width="55" height="55" alt="ReactJS"/>
+      <br>Node JS
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
