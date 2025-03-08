@@ -16,7 +16,7 @@
   <p align="justify">
 Welcome to My GitHub Page!
 
-I'm Masab Qurban, a **Full-Stack Developer** with 1+ year of experience crafting modern web apps. I wield **MERN**, **Next JS**, **Laravel**, **TypeScript**, **JavaScript** and **Python** to build scalable solutions and AI-powered tools. Passionate about pixel-perfect UIs, seamless UX, and clean architecture, I focus on web development while dabbling in cross-platform apps. I thrive on solving complex problems with cutting-edge tech and collaborative innovation.
+**I’m Masab Qurban**, a **Software Engineer** with 1+ year of experience architecting end-to-end web solutions. I bridge design and functionality to build scalable platforms, from pixel-perfect interfaces to robust backend systems. Passionate about solving complex problems, I thrive in collaborative environments where innovation meets the entire development lifecycle.
 
 Let's connect, innovate, and make an impact together!
   </p>
