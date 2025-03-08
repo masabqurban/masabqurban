@@ -38,14 +38,18 @@ Let's connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
+     <!-- Styling & Design -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Tailwind CSS" />
+      <br>Bootstrap
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-     <!-- Styling & Design -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
     </td>
     <!-- Front-End Frameworks -->
     <td align="center" width="96">
