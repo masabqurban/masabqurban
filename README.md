@@ -66,7 +66,7 @@ Let's connect, innovate, and make an impact together!
       <br>Next JS
     </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="ReactJS"/>
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="ReactJS"/>
       <br>Node JS
     </td>
   </tr>
@@ -84,15 +84,6 @@ Let's connect, innovate, and make an impact together!
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
     </td>
-    <!-- Version Control & Tools -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
     <!-- Databases -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
@@ -106,6 +97,15 @@ Let's connect, innovate, and make an impact together!
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
+    </td>
+   <!-- Version Control & Tools -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <!-- IDEs -->
     <td align="center" width="96">
