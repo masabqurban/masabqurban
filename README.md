@@ -62,7 +62,7 @@ Let's connect, innovate, and make an impact together!
       <br>Next JS
     </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="ReactJS"/>
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="ReactJS"/>
       <br>Node JS
     </td>
     <td align="center" width="96">
