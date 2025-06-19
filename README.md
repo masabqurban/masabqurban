@@ -16,9 +16,10 @@
   <p align="justify">
 Welcome to My GitHub Page!
 
-**I’m Masab Qurban**, a **Software Engineer** with 1+ year of experience architecting end-to-end web solutions. I bridge design and functionality to build scalable platforms, from pixel-perfect interfaces to robust backend systems. Passionate about solving complex problems, I thrive in collaborative environments where innovation meets the entire development lifecycle.
+**I’m Masab Qurban**, a **Software Engineer** and **Full Stack Developer** passionate about building end-to-end web solutions. From designing pixel-perfect interfaces to developing scalable backend systems, I specialize in bridging design with functionality. I thrive in collaborative environments where innovation drives the full development lifecycle.
 
-Let's connect, innovate, and make an impact together!
+Let’s connect, innovate, and make an impact together!
+
   </p>
 </span>
 <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
