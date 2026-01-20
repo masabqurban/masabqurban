@@ -40,10 +40,10 @@ Let’s connect, innovate, and make an impact together!
       <br>CSS
     </td>
      <!-- Styling & Design -->
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Tailwind CSS" />
       <br>Bootstrap
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
