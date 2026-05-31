@@ -209,21 +209,27 @@ Let’s connect, innovate, and make an impact together!
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masabqurban&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masabqurban&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masabqurban&theme=tokyonight" alt="Masab Qurban's GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=masabqurban&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=masabqurban&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masabqurban&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masabqurban&theme=tokyonight&utcOffset=5" alt="Most productive commit time" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Most committed languages" height="180" />
 </p>
 
 ---
@@ -232,6 +238,12 @@ Let’s connect, innovate, and make an impact together!
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masabqurban&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=masabqurban&label=Profile%20Views&color=0e75b6&style=flat" alt="masabqurban" />
 </p>
 
 ---
