@@ -85,6 +85,10 @@ Let’s connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+      <br>Electron
+    </td>
     </tr>
   <tr>
     <td align="center" width="96">
@@ -98,10 +102,6 @@ Let’s connect, innovate, and make an impact together!
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="Material UI" />
       <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
-      <br>Electron
     </td>
   </tr>
 </table>
