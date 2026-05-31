@@ -5,16 +5,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/masabqurban/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://www.masabqurban.com/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/masab-qurban/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.masabqurban.com/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.instagram.com/masabqurban/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:masabqurban@gmail.com">
@@ -25,23 +25,18 @@
 <br/>
 
 <p align="center">
-  <b>Full Stack Engineer @ Vendaxis &nbsp;·&nbsp; Next.js · Laravel · Docker · Building things that actually ship</b>
+  <b>Full Stack Engineer @ VendAxis FZ LLC &nbsp;·&nbsp; React.js . Next.js · Node.js · Building things that actually ship</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-**I'm Masab Qurban**, a **Software Engineer** and **Full Stack Developer** with **2+ years of professional experience**, currently building production-grade web applications at **Vendaxis**. I specialize in bridging pixel-perfect frontend design with scalable backend systems — from React/Next.js interfaces to Laravel APIs backed by MySQL and PostgreSQL.
+**I'm Masab Qurban**, a **Software Engineer** and **Full Stack Developer** with **2+ years of professional experience**, currently building production-grade web applications at **VendAxis FZ LLC**. I specialize in bridging pixel-perfect frontend design with scalable backend systems from React/Next.js interfaces to Node.js APIs backed by MySQL and PostgreSQL.
 
-- 🔭 Currently working on **[masab_qurban_next.js](https://github.com/masabqurban/masab_qurban_next.js)** — my personal portfolio in Next.js
-- 🏢 Working at **Vendaxis** for 1.5+ years building full-stack products
-- 🌱 Deepening knowledge in **Docker**, **PostgreSQL**, and **system design**
-- 💬 Ask me about **React, Next.js, Laravel, Node.js, or TypeScript**
-- 📫 Reach me at **masabqurban@gmail.com**
-- 🌍 Based in **Faisalabad, Punjab, Pakistan**
+Let’s connect, innovate, and make an impact together!
 
----
+<img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 ### 🛠️ My Tech Stack
 
@@ -58,6 +53,10 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
+    <!-- <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
@@ -86,6 +85,22 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
       <br>Framer Motion
     </td>
+    <!-- <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" alt="SASS" />
+      <br>SASS
+    </td> -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="Material UI" />
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+      <br>Electron
+    </td>
   </tr>
 </table>
 
@@ -100,6 +115,18 @@
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express JS" />
       <br>Express JS
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" height="55" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <!-- <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="php" />
+      <br>jQuery
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
@@ -143,8 +170,16 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GH Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
