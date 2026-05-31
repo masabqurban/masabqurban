@@ -83,7 +83,7 @@
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=framermotion" width="48" height="48" alt="Framer Motion" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
       <br>Framer Motion
     </td>
   </tr>
@@ -170,9 +170,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masabqurban&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masabqurban&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masabqurban&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masabqurban&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masabqurban&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masabqurban&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </p>
 
 ---
