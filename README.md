@@ -43,7 +43,7 @@ Let’s connect, innovate, and make an impact together!
 > Technologies I work with daily and have shipped to production
 
 #### 🎨 Frontend
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -85,10 +85,11 @@ Let’s connect, innovate, and make an impact together!
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
       <br>Framer Motion
     </td>
-    <!-- <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" alt="SASS" />
-      <br>SASS
-    </td> -->
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" alt="Redux" />
       <br>Redux
@@ -105,7 +106,7 @@ Let’s connect, innovate, and make an impact together!
 </table>
 
 #### ⚙️ Backend & Databases
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node JS" />
@@ -147,6 +148,11 @@ Let’s connect, innovate, and make an impact together!
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
@@ -159,7 +165,7 @@ Let’s connect, innovate, and make an impact together!
 </table>
 
 #### 🧰 Tools & DevOps
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
