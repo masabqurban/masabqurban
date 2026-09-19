@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-**I'm Masab Qurban**, a **Software Engineer** and **Full Stack Developer** with **2+ years of professional experience**, currently building production-grade web applications at **VendAxis FZ LLC**. I specialize in bridging pixel-perfect frontend design with scalable backend systems from React/Next.js interfaces to Node.js APIs backed by MySQL and PostgreSQL.
+**I'm Masab Qurban**, a **Software Engineer** and **Full Stack Developer** with **3+ years of professional experience**, currently building production-grade web applications at **VendAxis FZ LLC**. I specialize in bridging pixel-perfect frontend design with scalable backend systems from React/Next.js interfaces to Node.js APIs backed by MySQL and PostgreSQL.
 
 Let’s connect, innovate, and make an impact together!
 
