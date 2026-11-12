@@ -27,6 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist # snk runs in Docker and writes files as root
           cd dist
           git init -q -b output
           git add .
