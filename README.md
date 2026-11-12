@@ -25,13 +25,11 @@
   <tr>
     <td width="58%" valign="top">
 
-I'm a **Full Stack Engineer** with **3+ years of professional experience**, currently building production-grade web applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**. I bridge pixel-perfect frontends with scalable backends, from React / Next.js interfaces to Node.js and Laravel APIs on MySQL and PostgreSQL.
+I'm a **Full Stack Engineer** with **3+ years of professional experience**, currently building production-grade web applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
 
-- 🔭 Building production web platforms at **VendAxis**
-- 🧩 Maintaining **6 open-source starter templates** for Next.js, Node.js, React, React Native, Electron and Laravel
-- 🌱 Currently exploring **AI-powered features** in web apps
-- 💼 **Open to** remote full-stack roles and freelance projects
-- 📍 Faisalabad, Pakistan · 🕒 UTC+5
+I bridge pixel-perfect frontends with scalable backends, from React / Next.js interfaces to Node.js and Laravel APIs on MySQL and PostgreSQL, and I ship to web, mobile and desktop.
+
+When I'm not shipping client work, I maintain **open-source starter templates** so every new project starts production-ready: auth, security headers, testing, Docker and CI included.
 
 </td>
     <td width="42%" align="center">
@@ -39,6 +37,28 @@ I'm a **Full Stack Engineer** with **3+ years of professional experience**, curr
     </td>
   </tr>
 </table>
+
+---
+
+## ⚡ At a Glance
+
+```ts
+const masab: Engineer = {
+  role: "Full Stack Engineer",
+  company: "VendAxis FZ LLC",
+  experience: "3+ years",
+  location: "Faisalabad, Pakistan 🇵🇰 (UTC+5)",
+
+  building: ["Production SaaS & client platforms", "REST / GraphQL APIs", "Web, mobile & desktop apps"],
+  openSource: ["Next.js", "Node.js", "React", "React Native", "Electron", "Laravel"].map(t => `${t} template`),
+
+  strengths: ["Clean architecture", "Type-safe end to end", "Security-first defaults", "Fast, accessible UIs"],
+  exploring: ["AI-powered features", "LLM integrations"],
+
+  openTo: ["Remote full-stack roles", "Freelance projects"],
+  contact: "masabqurban@gmail.com",
+};
+```
 
 ---
 
@@ -104,51 +124,6 @@ I'm a **Full Stack Engineer** with **3+ years of professional experience**, curr
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/Next.js-Template">⚡ Next.js Template</a></h3>
-      <p>Production-ready Next.js 16 starter: App Router, Partial Prerendering, full SEO (OG images, JSON-LD, sitemap), strict security headers, Vitest + Playwright.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/Node.js-Template">🟢 Node.js API Template</a></h3>
-      <p>REST API starter: Express 5, Zod validation with generated OpenAPI docs, JWT refresh-token rotation, RBAC, rate limiting and structured logging.</p>
-      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/Laravel-Inertia-React-Template">🔴 Laravel + Inertia + React</a></h3>
-      <p>Laravel 13 + Inertia 3 + React 19 starter: role-based users, passkeys & 2FA, typed routes, nonce-based CSP and Docker (FrankenPHP).</p>
-      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/React-Native-Template">📱 React Native Template</a></h3>
-      <p>Expo SDK 58 starter: Expo Router, TanStack Query, Zod, secure token storage, accessible UI and EAS build profiles for iOS & Android.</p>
-      <p><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/Electron-React-Template">🖥️ Electron + React Template</a></h3>
-      <p>Cross-platform desktop template: typed & validated IPC, sandboxed renderer, strict CSP, built-in SQLite, tray, deep links and auto-updates.</p>
-      <p><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/masabqurban/ShopEase">🛒 ShopEase</a></h3>
-      <p>Next-gen e-commerce platform with product discovery, cart management and modern UI components.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/masabqurban?tab=repositories"><b>See all repositories →</b></a></p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -156,8 +131,13 @@ I'm a **Full Stack Engineer** with **3+ years of professional experience**, curr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Most committed languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masabqurban&theme=tokyonight&utcOffset=5" alt="Most productive time of day" width="49%" />
 </p>
 
 <p align="center">
@@ -166,7 +146,15 @@ I'm a **Full Stack Engineer** with **3+ years of professional experience**, curr
 
 ---
 
-## 🐍 Contribution Snake
+## 🧊 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar with language and activity charts" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
