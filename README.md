@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer coding late at night with code symbols floating above" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a dual-monitor setup" />
 
 I'm a **Software Engineer** and **Full Stack Developer** with **3.5+ years of professional experience** (since June 2023), currently building production-grade applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
 
