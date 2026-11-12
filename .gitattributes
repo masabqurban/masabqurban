@@ -1,4 +1,4 @@
-# Profile helper scripts should not give this repo a language,
+# Profile helper scripts and icon assets should not give this repo a language,
 # so its commits stay out of the language stats.
-scripts/** linguist-detectable=false
-assets/** linguist-detectable=false
+scripts/** linguist-vendored linguist-detectable=false
+assets/** linguist-vendored linguist-detectable=false
