@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate growing contribution snake
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths: [".github/workflows/snake.yml", "scripts/growing-snake.mjs"]
 
 permissions:
   contents: write
@@ -15,19 +16,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          node-version: 24
+
+      - name: Generate snake SVGs
+        run: node scripts/growing-snake.mjs "${{ github.repository_owner }}" dist
 
       - name: Publish to output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          sudo chown -R "$(id -u):$(id -g)" dist # snk runs in Docker and writes files as root
           cd dist
           git init -q -b output
           git add .

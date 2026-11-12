@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-3d.yml"]
+    paths: [".github/workflows/profile-3d.yml", "scripts/patch-3d-contrib.mjs"]
 
 permissions:
   contents: write
@@ -18,8 +18,19 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # Pinned release, patched to hide the "other" pie slice and the fork counter
+      - name: Get github-profile-3d-contrib v0.9.3
+        run: git clone --quiet --depth 1 --branch v0.9.3 https://github.com/yoshi389111/github-profile-3d-contrib.git "$RUNNER_TEMP/p3d"
+
+      - name: Patch
+        run: node scripts/patch-3d-contrib.mjs "$RUNNER_TEMP/p3d/dist/index.js"
+
       - name: Generate 3D contribution SVGs
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        run: node "$RUNNER_TEMP/p3d/dist/index.js"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}

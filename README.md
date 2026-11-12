@@ -25,7 +25,7 @@
   <tr>
     <td width="58%" valign="top">
 
-I'm a **Full Stack Engineer** with **3+ years of professional experience**, currently building production-grade web applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
+I'm a **Full Stack Engineer** with **3.5+ years of professional experience** (since June 2023), currently building production-grade web applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
 
 I bridge pixel-perfect frontends with scalable backends, from React / Next.js interfaces to Node.js and Laravel APIs on MySQL and PostgreSQL, and I ship to web, mobile and desktop.
 
@@ -37,28 +37,6 @@ When I'm not shipping client work, I maintain **open-source starter templates** 
     </td>
   </tr>
 </table>
-
----
-
-## ⚡ At a Glance
-
-```ts
-const masab: Engineer = {
-  role: "Full Stack Engineer",
-  company: "VendAxis FZ LLC",
-  experience: "3+ years",
-  location: "Faisalabad, Pakistan 🇵🇰 (UTC+5)",
-
-  building: ["Production SaaS & client platforms", "REST / GraphQL APIs", "Web, mobile & desktop apps"],
-  openSource: ["Next.js", "Node.js", "React", "React Native", "Electron", "Laravel"].map(t => `${t} template`),
-
-  strengths: ["Clean architecture", "Type-safe end to end", "Security-first defaults", "Fast, accessible UIs"],
-  exploring: ["AI-powered features", "LLM integrations"],
-
-  openTo: ["Remote full-stack roles", "Freelance projects"],
-  contact: "masabqurban@gmail.com",
-};
-```
 
 ---
 
@@ -131,13 +109,9 @@ const masab: Engineer = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masabqurban&theme=tokyonight&utcOffset=5" alt="Most productive time of day" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="32.5%" />
 </p>
 
 <p align="center">
@@ -158,9 +132,9 @@ const masab: Engineer = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/masabqurban/masabqurban/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake.svg" />
+    <img src="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake.svg" alt="A snake that grows as it eats my contributions" />
   </picture>
 </p>
 
