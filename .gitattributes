@@ -1,0 +1,4 @@
+# Profile helper scripts should not give this repo a language,
+# so its commits stay out of the language stats.
+scripts/** linguist-detectable=false
+assets/** linguist-detectable=false
