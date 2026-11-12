@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Masab%20Qurban&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%40%20VendAxis%20FZ%20LLC&descSize=18&descAlignY=58&animation=fadeIn" alt="Masab Qurban, Full Stack Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Masab%20Qurban&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Desktop&descSize=18&descAlignY=58&animation=fadeIn" alt="Masab Qurban, Full Stack Engineer for web, mobile and desktop" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.masabqurban.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel;Building+web+apps+that+actually+ship;Production-ready+templates+for+every+stack;Open+to+remote+full-stack+roles" alt="React, Next.js, Node.js, Laravel" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+%C2%B7+Mobile+%C2%B7+Desktop;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Electron;Node.js+%C2%B7+Laravel+%C2%B7+TypeScript;Building+apps+that+actually+ship;Open+to+remote+full-stack+roles" alt="Web, Mobile, Desktop" />
   </a>
 </p>
 
@@ -21,97 +21,121 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a dual-monitor setup" />
 
-I'm a **Full Stack Engineer** with **3.5+ years of professional experience** (since June 2023), currently building production-grade web applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
+I'm a **Full Stack Engineer** with **3.5+ years of professional experience** (since June 2023), currently building production-grade applications at **[VendAxis FZ LLC](https://github.com/Vendaxis)**.
 
-I bridge pixel-perfect frontends with scalable backends, from React / Next.js interfaces to Node.js and Laravel APIs on MySQL and PostgreSQL, and I ship to web, mobile and desktop.
+I build for **every screen**:
 
-When I'm not shipping client work, I maintain **open-source starter templates** so every new project starts production-ready: auth, security headers, testing, Docker and CI included.
+- 🌐 **Web**: React and Next.js frontends on Node.js and Laravel APIs
+- 📱 **Mobile**: cross-platform iOS and Android apps with React Native and Expo
+- 🖥️ **Desktop**: Windows, macOS and Linux apps with Electron
 
-</td>
-    <td width="42%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a dual-monitor setup" width="100%" />
-    </td>
-  </tr>
-</table>
+I also maintain **open-source starter templates** for each of these stacks, so every new project starts production-ready: auth, security headers, testing, Docker and CI included.
+
+<br clear="right" />
 
 ---
 
 ## 🛠️ Tech Stack
 
-#### 🎨 Frontend & Mobile
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br><sub><b>CSS</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br><sub><b>Vite</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br><sub><b>Electron</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /><br><sub><b>React Native</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="Material UI" /><br><sub><b>Material UI</b></sub></td>
-    <td align="center" width="96"><img src="assets/framer-motion.svg" width="48" height="48" alt="Framer Motion" /><br><sub><b>Framer Motion</b></sub></td>
-  </tr>
-</table>
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="44" height="44" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="44" height="44" alt="Python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" title="CSS3" />
+</p>
+<sub>TypeScript · JavaScript · PHP · Python · HTML5 · CSS3</sub>
 
-#### ⚙️ Backend & Databases
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub><b>Express</b></sub></td>
-    <td align="center" width="96"><img src="assets/rest-api.svg" width="48" height="48" alt="REST API" /><br><sub><b>REST API</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br><sub><b>GraphQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><sub><b>Laravel</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><sub><b>SQLite</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
-  </tr>
-</table>
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="44" height="44" alt="Vite" title="Vite" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="assets/shadcnui.svg" width="44" height="44" alt="shadcn/ui" title="shadcn/ui" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" title="Redux" />&nbsp;
+  <img src="assets/tanstack.svg" width="44" height="44" alt="TanStack Query" title="TanStack Query" />&nbsp;
+  <img src="assets/reacthookform.svg" width="44" height="44" alt="React Hook Form" title="React Hook Form" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mui" width="44" height="44" alt="Material UI" title="Material UI" />&nbsp;
+  <img src="assets/framer-motion.svg" width="44" height="44" alt="Framer Motion" title="Framer Motion" />
+</p>
+<sub>React · Next.js · Vite · Tailwind CSS · shadcn/ui · Redux · TanStack Query · React Hook Form · Material UI · Framer Motion</sub>
 
-#### 🧰 Tools & DevOps
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GH Actions" /><br><sub><b>GH Actions</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
-  </tr>
-</table>
+#### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React Native" title="React Native" />&nbsp;
+  <img src="assets/expo.svg" width="44" height="44" alt="Expo" title="Expo" />&nbsp;
+  <img src="assets/android.svg" width="44" height="44" alt="Android" title="Android" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=apple" width="44" height="44" alt="iOS" title="iOS" />
+</p>
+<sub>React Native · Expo · Android · iOS</sub>
+
+#### 🖥️ Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=electron" width="44" height="44" alt="Electron" title="Electron" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" width="44" height="44" alt="Windows" title="Windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=apple" width="44" height="44" alt="macOS" title="macOS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" title="Linux" />
+</p>
+<sub>Electron · Windows · macOS · Linux</sub>
+
+#### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="44" height="44" alt="Express" title="Express" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="44" height="44" alt="Laravel" title="Laravel" />&nbsp;
+  <img src="assets/inertia.svg" width="44" height="44" alt="Inertia.js" title="Inertia.js" />&nbsp;
+  <img src="assets/livewire.svg" width="44" height="44" alt="Livewire" title="Livewire" />&nbsp;
+  <img src="assets/rest-api.svg" width="44" height="44" alt="REST API" title="REST API" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" width="44" height="44" alt="GraphQL" title="GraphQL" />&nbsp;
+  <img src="assets/swagger.svg" width="44" height="44" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />&nbsp;
+  <img src="assets/jsonwebtokens.svg" width="44" height="44" alt="JWT" title="JWT" />&nbsp;
+  <img src="assets/zod.svg" width="44" height="44" alt="Zod" title="Zod" />
+</p>
+<sub>Node.js · Express · Laravel · Inertia.js · Livewire · REST API · GraphQL · Swagger / OpenAPI · JWT · Zod</sub>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="44" height="44" alt="SQLite" title="SQLite" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" alt="Firebase" title="Firebase" />
+</p>
+<sub>MySQL · PostgreSQL · MongoDB · SQLite · Firebase</sub>
+
+#### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest" width="44" height="44" alt="Vitest" title="Vitest" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" width="44" height="44" alt="Jest" title="Jest" />&nbsp;
+  <img src="assets/playwright.svg" width="44" height="44" alt="Playwright" title="Playwright" />&nbsp;
+  <img src="assets/testinglibrary.svg" width="44" height="44" alt="Testing Library" title="Testing Library" />
+</p>
+<sub>Vitest · Jest · Playwright · Testing Library</sub>
+
+#### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" alt="Vercel" title="Vercel" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" title="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" title="VS Code" />
+</p>
+<sub>Docker · GitHub Actions · Git · GitHub · Vercel · Postman · Figma · VS Code</sub>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masabqurban&theme=tokyonight" alt="GitHub profile summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="32.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="32.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="32.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="32.5%" hspace="4" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="32.5%" />
 </p>
 
 <p align="center">
@@ -134,7 +158,7 @@ When I'm not shipping client work, I maintain **open-source starter templates** 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake.svg" />
-    <img src="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake.svg" alt="A snake that grows as it eats my contributions" />
+    <img src="https://raw.githubusercontent.com/masabqurban/masabqurban/output/growing-snake.svg" alt="A snake that grows as it eats my contributions" width="100%" />
   </picture>
 </p>
 
