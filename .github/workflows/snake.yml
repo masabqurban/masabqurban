@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/snake.yml", "scripts/growing-snake.mjs"]
+    paths: [".github/workflows/snake.yml", ".github/scripts/growing-snake.mjs"]
 
 permissions:
   contents: write
@@ -23,7 +23,7 @@ jobs:
           node-version: 24
 
       - name: Generate snake SVGs
-        run: node scripts/growing-snake.mjs "${{ github.repository_owner }}" dist
+        run: node .github/scripts/growing-snake.mjs "${{ github.repository_owner }}" dist
 
       - name: Publish to output branch
         env:

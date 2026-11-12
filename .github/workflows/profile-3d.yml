@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-3d.yml", "scripts/patch-3d-contrib.mjs"]
+    paths: [".github/workflows/profile-3d.yml", ".github/scripts/patch-3d-contrib.mjs"]
 
 permissions:
   contents: write
@@ -27,7 +27,7 @@ jobs:
         run: git clone --quiet --depth 1 --branch v0.9.3 https://github.com/yoshi389111/github-profile-3d-contrib.git "$RUNNER_TEMP/p3d"
 
       - name: Patch
-        run: node scripts/patch-3d-contrib.mjs "$RUNNER_TEMP/p3d/dist/index.js"
+        run: node .github/scripts/patch-3d-contrib.mjs "$RUNNER_TEMP/p3d/dist/index.js"
 
       - name: Generate 3D contribution SVGs
         run: node "$RUNNER_TEMP/p3d/dist/index.js"
