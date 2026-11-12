@@ -135,7 +135,7 @@ I also maintain **open-source starter templates** for each of these stacks, so e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="32.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="32.5%" hspace="4" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masabqurban&theme=tokyonight" alt="Top languages by repository" width="33%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masabqurban&theme=tokyonight" alt="Top languages by commit" width="33%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masabqurban&theme=tokyonight" alt="GitHub stats" width="33%" />
 </p>
 
 <p align="center">
