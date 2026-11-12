@@ -104,55 +104,7 @@ function build(cells, theme) {
 
   const N = path.length - 1;
   const T = r4(N * STEP);
-
-  // Smooth path: every 90° turn becomes a curve of radius CELL/2.
-  const R = CELL / 2;
-  const pts = path.map(([c, r]) => center(c, r));
-  const dir = (a, b) => [Math.sign(b[0] - a[0]), Math.sign(b[1] - a[1])];
-  const isCorner = pts.map((p, i) => {
-    if (i === 0 || i === N) return false;
-    const [a, b] = [dir(pts[i - 1], p), dir(p, pts[i + 1])];
-    return a[0] * b[0] + a[1] * b[1] === 0; // perpendicular turn
-  });
-  // Arc length of the quadratic corner curve (same for every corner).
-  let curve = 0;
-  for (let s = 0, prev = [0, R]; s < 200; s++) {
-    const t = (s + 1) / 200;
-    const x = 2 * (1 - t) * t * 0 + t * t * R; // control point at the corner (0,0), ends at (0,R) and (R,0)
-    const y = (1 - t) * (1 - t) * R;
-    curve += Math.hypot(x - prev[0], y - prev[1]);
-    prev = [x, y];
-  }
-  let d = `M${pts[0].join(" ")}`;
-  for (let i = 1; i < N; i++) {
-    if (!isCorner[i]) continue;
-    const [a, b] = [dir(pts[i - 1], pts[i]), dir(pts[i], pts[i + 1])];
-    const p = pts[i];
-    d += `L${p[0] - a[0] * R} ${p[1] - a[1] * R}Q${p[0]} ${p[1]} ${p[0] + b[0] * R} ${p[1] + b[1] * R}`;
-  }
-  d += `L${pts[N].join(" ")}`;
-  // Distance along the smooth path at each step (a corner's point is its curve midpoint).
-  const D = [0];
-  for (let i = 1; i <= N; i++) {
-    let len = CELL;
-    if (isCorner[i - 1]) len += curve / 2 - R;
-    if (isCorner[i]) len += curve / 2 - R;
-    D.push(D[i - 1] + len);
-  }
-  const L = D[N];
-  // Keyframes for a body part k steps behind the head; points inside straight runs are dropped.
-  const r6 = (n) => +n.toFixed(6);
-  const motionKeys = (k) => {
-    const times = [], points = [];
-    if (k > 0) { times.push(0); points.push(0); }
-    for (let j = 0; j <= N - k; j++) {
-      const keep = j === 0 || j === N - k || Math.abs(D[j] - D[j - 1] - (D[j + 1] - D[j])) > 1e-9;
-      if (!keep) continue;
-      times.push(r6((j + k) / N));
-      points.push(r6(D[j] / L));
-    }
-    return { keyTimes: times.join(";"), keyPoints: points.join(";") };
-  };
+  const d = "M" + path.map(([c, r]) => center(c, r).join(" ")).join("L");
 
   const out = [];
   out.push(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" width="${width}" height="${height}">`);
@@ -176,20 +128,19 @@ function build(cells, theme) {
   // Draw tail first so the head stays on top.
   for (let k = maxLen - 1; k >= 0; k--) {
     const isHead = k === 0;
-    const frac = Math.min(1, k / Math.max(1, maxLen - 1));
-    const color = isHead ? theme.head : lerpColor(theme.body[0], theme.body[1], frac);
-    // Touching segments form one continuous body that tapers towards the tail.
-    const s = isHead ? CELL + 1 : r4(CELL - 4 * frac);
-    const { keyTimes, keyPoints } = motionKeys(k);
+    const color = isHead ? theme.head : lerpColor(theme.body[0], theme.body[1], Math.min(1, k / Math.max(1, maxLen - 1)));
+    // Body tapers towards the tail.
+    const s = isHead ? SIZE + 1 : r4(SIZE - 4 * Math.min(1, k / Math.max(1, maxLen - 1)));
+    const lag = r4(k / N);
     const motion =
-      `<animateMotion dur="${T}s" repeatCount="indefinite" calcMode="linear" keyPoints="${keyPoints}" keyTimes="${keyTimes}"><mpath href="#p"/></animateMotion>`;
+      `<animateMotion dur="${T}s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;${r4((N - k) / N)}" keyTimes="0;${lag};1"><mpath href="#p"/></animateMotion>`;
     let vis = "";
     if (k >= START_LEN) {
       const t = r4(growAt[k - START_LEN] / N);
       vis = `<animate attributeName="opacity" values="0;1" keyTimes="0;${t}" calcMode="discrete" dur="${T}s" repeatCount="indefinite"/>`;
     }
     out.push(
-      `<rect x="${-s / 2}" y="${-s / 2}" width="${s}" height="${s}" rx="${r4(s / 2.6)}" fill="${color}"${k >= START_LEN ? ' opacity="0"' : ""}>${motion}${vis}</rect>`,
+      `<rect x="${-s / 2}" y="${-s / 2}" width="${s}" height="${s}" rx="${isHead ? 4 : r4(s / 3)}" fill="${color}"${k >= START_LEN ? ' opacity="0"' : ""}>${motion}${vis}</rect>`,
     );
   }
   out.push("</svg>");
